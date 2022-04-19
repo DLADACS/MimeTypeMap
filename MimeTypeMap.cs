@@ -683,7 +683,7 @@ namespace MimeTypes
                 {"application/vnd.ms-works", ".wks"},
                 {"application/vnd.visio", ".vsd"},
                 {"application/x-director", ".dir"},
-                {"application/x-application", ".exe"},
+                {"application/x-exe", ".exe"},
                 {"application/x-msdos-program", ".exe"},
                 {"application/x-shockwave-flash", ".swf"},
                 {"application/x-x509-ca-cert", ".cer"},
